@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220903T103000Z
+DTEND:20220903T123000Z
+DTSTAMP:20220903T054219Z
+ORGANIZER;CN=Polkadot India:MAILTO:calendar-invite@lu.ma
+UID:evt-DeBmYRtHsVxdpiQ@events.lu.ma
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pritis
+ htomar2004@gmail.com;X-NUM-GUESTS=0:mailto:pritishtomar2004@gmail.com
+SUMMARY:PENDING Substrate Saturday - Bootcamp Series 2
+DESCRIPTION:Get up-to-date information at: https://lu.ma/event/evt-DeBmYRtH
+ sVxdpiQ?pk=g-q6fuXuFp8WQnzKW\n\nEvent Information:\n\nWhat is Substrate Sat
+ urday?\n\nSubstrate Saturday is a FREE 3 month bootcamp with 6 interactive 
+ training sessions ONLY for developers.\n\nThe workshops will cover fundamen
+ tals of Rust & Substrate from scratch, including live coding sessions and o
+ ne on one mentoring.\n\nThis foundation level curriculum training is in syn
+ c with global substrate standards set by Parity & Web3 Foundation.\n\nOn in
+ terim Saturdays, there will be also be guest workshops from tech leaders of
+  globally successful projects - Astar Network, Unique Network and Polkadex!
+ \n\nOn successful completion of the bootcamp, participants will also have t
+ he opportunity to intern or get placed with our recruitment partners: \n\nN
+ ote : Only contenders with live participation/attendance at scheduled train
+ ing sessions will be considered for placements.\nAbout Polkadot India\nA co
+ mmunity for aspiring & established entrepreneurs working on blockchain or P
+ olkadot projects, developers building on Substrate, Solidity or Hyper-ledge
+ r; and even blockchain enthusiasts, to connect, collaborate and build!\nWis
+ h to be a part of Polkadot India?\nJoin us on WhatsApp here\nIf you’re acti
+ ve on Telegram, join us here
+LOCATION:https://lu.ma/event/evt-DeBmYRtHsVxdpiQ?pk=g-q6fuXuFp8WQnzKW
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

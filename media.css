@@ -1,0 +1,147 @@
+@media only screen and (max-width: 990px) and (min-width:450px) {
+    #small  {
+ position: relative;
+ left: 150px;
+ width: 100px;
+ bottom: 50px;
+ height: 50px;
+ padding: 0;
+display: block;
+
+    }
+  
+    
+    #para{ 
+        border: 1px solid yellow;
+        justify-items: center;
+        align-items: center;
+        /* margin-left: 0;
+        margin-right: 0; */
+        /* display: flex; */
+        justify-content: center;
+        align-content: center;
+    }
+.btn-lg{
+    display: none;
+
+}
+/* ............................. */
+    
+#main{
+    /* height: 5007.33px; */
+    background-image: url(bg.jpg);
+    /* background-repeat: no-repeat; */
+/* position: sticky; */
+    background-position:top;
+    /* background-size: contain; */
+    background-attachment: scroll;
+    background-size:  100% 1000px;
+    width: 100vw;
+  
+}
+
+.search{
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* justify-content: center; */
+    border: 1px solid red;
+    justify-self: center;
+    align-self: center;
+}
+#butt{
+    display: flex;
+    flex-wrap: wrap
+    ;
+    justify-content: space-around;
+}
+
+#div1{
+  
+    width: 200px;
+    /* height: 60px; */
+        }
+#div2{
+  
+    width: 200px;
+    /* height: 60px; */
+        }
+#div3{
+    justify-content: center;
+    justify-self: center;
+    width: 600px;
+    height: 60px;
+    align-self: center;
+    align-content: center;
+        }
+        #div3 a img{
+            height: 40px;
+            width: 30px;
+        }
+      
+        .navbar{
+            height: 80px;
+        }
+
+  }
+  @media only screen and (min-width:900px){
+    #small{
+        display: none;
+    }
+
+  }
+  
+
+
+
+
+
+
+
+
+
+
+  /* ........................ */
+ 
+    #main{
+
+        min-height: 800px;
+        /* border: 5px solid red; */
+        width: auto;
+        background-size: 100% 100%;
+        /* max-height: 30vh; */
+        /* height: 00px; */
+      
+    }
+
+
+  @media only screen and (max-width:450px){
+    .btn-lg{
+        display: none;
+    
+    }
+
+.navbar-toggler-icon{
+    /* position: absolute;
+    top: 50px;
+    left: 450px; */
+   height: 80px;
+   width: 80px;
+}
+#brand{
+    font-size: 5rem;
+}
+
+#para{justify-self: center;
+border: 2px solid red;
+justify-content: space-;
+align-content: center;
+align-self:center ;
+justify-self: center;
+flex-wrap: wrap;
+/* width: 80%; */
+width: 100vw;
+margin-left: 20px;
+margin-right: 20px;
+} 
+    
+  }
