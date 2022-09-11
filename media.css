@@ -302,4 +302,7 @@ align-self: center;
     align-content: center;
     margin-right: 20px;
    }
+       footer ,.foot{
+    background-color: rgb(0, 0, 0);
+   }
 }
